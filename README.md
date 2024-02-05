@@ -17,6 +17,7 @@ Welcome to the Web3 and Blockchain Blog Dapp! This decentralized application (Da
 
 ## Requirements
 Make sure you have the following installed before running the project:
+
 -Truffle suite
 - Node.js
 - Ganache (or any other local blockchain node)
